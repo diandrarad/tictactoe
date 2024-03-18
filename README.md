@@ -2,6 +2,7 @@
 
 This project implements an AI to play Tic-Tac-Toe optimally using the Minimax algorithm. The game interface is provided by `main.py`, while the game logic and AI implementation are in `tictactoe.py`.
 
+![Tic-Tac-Toe]([./src/assets/banner.png](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/images/game.png))
 ## Game Overview
 
 In the game of Tic-Tac-Toe, two players take turns marking cells on a 3x3 grid. The first player is X, and the second player is O. The game ends when one player successfully places three of their marks in a row, column, or diagonal, or when all cells on the grid are filled without any player winning.
